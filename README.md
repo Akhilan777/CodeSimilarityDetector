@@ -1,6 +1,6 @@
 # CodeSimilarityDetector
 #### Description
-It is a Python program that scrapes the code submitted by the participants for a particular question in a LeetCode contest and finds the semantic similarity of them.
+It is a Python program that scrapes the code submitted by the participants for a particular question in a LeetCode contest and finds the semantic similarity between them.
    
 #### Why did I do this?
 
