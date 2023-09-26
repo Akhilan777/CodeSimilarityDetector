@@ -1,0 +1,2 @@
+selenium
+sentence-transformers
